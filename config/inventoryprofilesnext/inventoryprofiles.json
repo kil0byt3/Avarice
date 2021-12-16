@@ -1,0 +1,27 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "show_locked_slots_background": false,
+        "show_locked_slots_foreground": false,
+        "also_show_locked_slots_in_hotbar": false,
+        "locked_slots_foreground_style": 3
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "SPACE"
+            }
+        }
+    }
+}
